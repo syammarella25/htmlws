@@ -1,0 +1,24 @@
+.myNewStyle {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    color: #137678;
+}
+p {
+    color: red !important;
+}
+#thing {
+    color: green;
+}
+
+.button {
+    background: red;
+    color: white;
+    padding: 3px;
+    border-radius: 5px;
+    border: 1px solid yellow;
+}
+
+#content a {
+    border-bottom: 1px dotted darkgreen;
+}
